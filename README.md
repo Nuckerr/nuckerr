@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Nuckerr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/Nuckerr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuckerr&layout=compact&bg_color=-45,00add0,161ba7,000000&title_color=fff&text_color=fff" />
+</a>
+
