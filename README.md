@@ -8,7 +8,7 @@ What im doing:
 -->
 
 <a href="https://github.com/Nuckerr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&show_icons=truef" />
 </a>
 <a href="https://github.com/Nuckerr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuckerr" />
