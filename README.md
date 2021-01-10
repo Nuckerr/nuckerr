@@ -4,7 +4,7 @@ What im doing:
 - 🔭 Im currently working on making an open source discord.js bot template
 - 🌱 I’m currently learning how to code javascript
 - 👯 I’m looking to collaborate on making a discord bot, minecraft plugin or game!
-- 📫 How to reach me: Nucker#2020 (Discord)
+- 📫 How to reach me: Nucker#2021 (Discord)
 -->
 
 <a href="https://github.com/Nuckerr">
