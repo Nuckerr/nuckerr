@@ -8,9 +8,9 @@ What im doing:
 -->
 
 <a href="https://github.com/Nuckerr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&show_icons=truef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)" />
 </a>
 <a href="https://github.com/Nuckerr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuckerr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuckerr&theme=onedark" />
 </a>
 
