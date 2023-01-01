@@ -1,5 +1,5 @@
 # I'm Nucker
-Hi, Im Daniel, or as I go by on the interwebs, Nucker. (N - uh - cker). Im 14 years old from england. I'm a bukkit plugin developer, discord bot developer and general "code-whatever-I-want-to-er". Im confident in java, intermediate in nodejs and have basic knowledge in python & C#.
+I have experience in Kotlin, Java, Typescript/Javascript, Svelte/Svelte Kit, Tailwind & Astro. I am also confident in the linux terminal and am familiar with Python. I am a FOSS enthusiast and I love exploring the world of amazing projects with code to be browsed here on GitHub.
 
 <a href="https://github.com/Nuckerr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuckerr&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)" />
